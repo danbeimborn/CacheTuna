@@ -12,7 +12,7 @@ A terminal based L3 Cache monitoring and tuning tool, integrating Intel's intel-
 ## How to Install and Run
 > Make sure `intel-cmt-cat`, `cmake3`, and `gcc-c++` are installed.
 1. Make a local copy of this repository:
->```git clone https://qrtlhclp0002lhc.qube-rt.org/bitbucket/scm/perflab/cachetuna_opensource.git```
+(with git clone, for example!)
 2. Go into the cloned project’s directory: 
 >```cd cachetuna_opensource```
 3. Create your own 'build' directory:
